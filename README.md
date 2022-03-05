@@ -1,1 +1,1 @@
-Multi weather classification
+Automatic License plate recognition using OpenCV and EasyOCR.
