@@ -1,1 +1,1 @@
-Automatic License plate recognition using OpenCV and EasyOCR.
+Video Classification.
